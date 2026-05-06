@@ -1,46 +1,61 @@
-# Data Manipulation with JavaScript
+# 📊 Data Manipulation with JavaScript
 
-## 📌 Overview
-
-This project demonstrates basic data manipulation and problem-solving using JavaScript. It focuses on arithmetic operations, logical comparisons, and structured programming practices.
+A beginner-friendly JavaScript project that demonstrates **data manipulation, arithmetic operations, logical comparisons, and problem-solving techniques** using structured programming.
 
 The assignment is divided into two main parts:
 
 * **Part 1: Math Problems**
 * **Part 2: Practical Math (Road Trip Scenario)**
 
+🌐 Live Demo
+
+🔗 https://tahmina-official.github.io/Data-Manipulation-with-JavaScript/
+
+---
+
+---
+
+## 📌 Overview
+
+This project focuses on strengthening core JavaScript fundamentals by solving practical problems using:
+
+- Variables (`const`, `let`)
+- Arithmetic operations (`+`, `-`, `*`, `%`)
+- Comparison operators (`>`, `<=`, `===`)
+- Logical operators (`&&`, `||`)
+- Template literals
+- Console logging
+- Structured code organization
+
 ---
 
 ## 🧠 Concepts Used
 
-* `const` and `let` variable declarations
-* Arithmetic operators (`+`, `-`, `*`, `%`)
-* Comparison operators (`===`, `>`, `<=`)
-* Logical operators (`&&`, `||`)
-* Template literals for output formatting
-* Console logging
-* Code organization and commenting
+- Data types and variables
+- Conditional logic
+- Mathematical operations
+- Boolean logic
+- Problem decomposition
+- Clean code practices
 
 ---
 
 ## 🔢 Part 1: Math Problems
 
-This section evaluates four numbers based on specific conditions:
+This section evaluates four numbers based on multiple conditions.
 
 ### ✅ Checks Performed:
-
-* Do the numbers add up to 50?
-* Are at least two numbers odd?
-* Are all numbers 25 or less?
-* Are all numbers unique?
-* Are all numbers divisible by 5?
-* Is the first number greater than the last?
+- Do the numbers add up to 50?
+- Are at least two numbers odd?
+- Are all numbers 25 or less?
+- Are all numbers unique?
+- Are all numbers divisible by 5?
+- Is the first number greater than the last?
 
 ### ➗ Arithmetic Chain:
-
-1. Subtract first number from second
-2. Multiply result by third number
-3. Find remainder when divided by fourth number
+- Subtract first number from second  
+- Multiply result by third number  
+- Find remainder when divided by fourth number  
 
 ### ✔ Final Validation:
 
@@ -131,6 +146,10 @@ project-folder/
 
 ---
 
-## 👇 Author
+## 👩‍💻 Author
+**Tahmina Akter**
 
-TAHMINA AKTER
+---
+
+## 📄 License
+This project is licensed for educational purposes only and is intended for learning and demonstration use.
